@@ -1,8 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm José Antonio Funes Pérez</h1>
 <h3 align="center">A junior Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josefunes&label=Profile%20views&color=0e75b6&style=flat" alt="josefunes" /> </p>
-
 - 🌱 I’m currently learning **mobile software development (Android, iOS, etc.)**
 
 - 📫 How to reach me **josea.funesp@gmail.com**
