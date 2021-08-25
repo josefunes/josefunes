@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **josea.funesp@gmail.com**
 
-- ⚡ Fun fact **Marvel Films Lover**
+- ⚡ Fun fact **Marvel Films and Sports Lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
