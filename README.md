@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm José Antonio Funes Pérez</h1>
-<h3 align="center">A junior Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain.</h3>
+<h3 align="center">A Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain. Fullstack Developer / App Developer</h3>
 
-- 🌱 I’m currently learning **mobile software development (Android, iOS, etc.)**
+- 🌱 I’m currently working at **Metaenlace!**
 
 - 📫 How to reach me **josea.funesp@gmail.com**
 
