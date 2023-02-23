@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm José Antonio Funes Pérez</h1>
-<h3 align="center">A Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain. Fullstack Developer / App Developer</h3>
+<h3 align="center">A Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain. Data Analyst</h3>
 
 - 🌱 I’m currently studying at **Sports Data Campus**!
 
