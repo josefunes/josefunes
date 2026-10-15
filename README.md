@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm José Antonio Funes Pérez</h1>
 <h3 align="center">A Computer Engineer with Mention in Information Systems and Technologies from Almería, Spain. Data Analyst</h3>
 
-- 🌱 I’m currently working at **SDG**(Science Data Group)!
+- 🌱 I’m currently working at **Davante Medac**!
 
 - 📫 How to reach me **josea.funesp@gmail.com**
 
